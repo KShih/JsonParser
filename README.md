@@ -1,5 +1,3 @@
-## Homework 2 - Week 2
-
 ### Motivation
 * Demonstrate your ability to program procedurally in Java
 
